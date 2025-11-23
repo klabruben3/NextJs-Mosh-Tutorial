@@ -14,14 +14,7 @@
 - Within a browser or
 - Within a NodeJs runtime
 
-<style>
-    .important:hover{
-        color: green;
-        cursor: pointer;
-    }
-</style>
-
-<u class="important">
+<u style="color: orange">
   The Backend you write gets executed within that NodeJs runtime and the
   frontend gets executed in the browser
 </u>
